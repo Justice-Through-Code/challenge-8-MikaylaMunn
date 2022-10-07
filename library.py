@@ -163,7 +163,7 @@ def count_books():
 
 # 2.2 TODO: Check the number of books available in the books list using the `count_books` function
 # HINT: Does `return` print anything out?
-count_books()
+print(count_books())
 
 # 2.3 TODO: Create a function 'search_by_author' that returns the titles of books by an author
 # Parameters - author (string)
